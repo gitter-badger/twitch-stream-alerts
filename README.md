@@ -1,5 +1,7 @@
 ## Twitch Stream Alerts
 
+[![Join the chat at https://gitter.im/Saturn/twitch-stream-alerts](https://badges.gitter.im/Saturn/twitch-stream-alerts.svg)](https://gitter.im/Saturn/twitch-stream-alerts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Simple script that sends Pushbullet notifications when a [Twitch.tv](http://www.twitch.tv/) stream you specify comes online.
 
 The script will keep a record of the streams it records and only alert you when a stream is 'newly online'.
